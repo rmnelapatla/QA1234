@@ -2,6 +2,9 @@ package src;
 
 public class test123 {
 
+    public void welcome(){
+
+    }
 
     public static void main(String arg[]) {
         System.out.println("welcome to GIT Test");
